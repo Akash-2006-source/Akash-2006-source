@@ -2,10 +2,6 @@
 
 ### Building impactful, data-driven solutions by combining AI, Big Data Analytics, and full-stack development, while continuously learning and pushing the boundaries of modern technology.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akash-2006-source&label=Profile views&color=0e75b6&style=flat" alt="Akash-2006-source" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akash-2006-source" alt="Akash-2006-source" /></a> </p>
-
 - 🔭 I'm currently working on **Working on AI-driven and Big Data projects with real-world applications**
 
 - 🌱 I'm currently learning **Currently learning modern tools for data and full-stack development**
